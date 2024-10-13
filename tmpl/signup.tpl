@@ -1,10 +1,10 @@
 {$page_name = 'Register'}
-{$home_url = 'https://quantumledger.online/'}
-{$site_url = 'https://account.quantumledger.online/'}
+{$home_url = 'https://econoxtrade.online/'}
+{$site_url = 'https://account.econoxtrade.online/'}
 {$site_name = 'Quantum Ledger Financial System'}
-{$site_logo = 'https://quantumledger.online/assets/imgs/qfs.png'}
-{assign var="login_url" value="{$site_url}?a=login"}
-{assign var="favicon_url" value="{$home_url}assets/imgs/qfsicon.png"}
+{assign var="site_logo" value="{$site_url}assets/img/logo/logo_dark.png"}
+{assign var="registration_url" value="{$site_url}?a=signup"}
+{assign var="favicon_url" value="{$home_url}assets/images/logoIcon/favicon.png"}
 
 {include file="auth_header.tpl"}
 
