@@ -1,8 +1,8 @@
 {$page_name = 'Login'}
-{$home_url = 'https://quantumledger.online/'}
-{$site_url = 'https://account.quantumledger.online/'}
+{$home_url = 'https://econoxtrade.online/'}
+{$site_url = 'https://account.econoxtrade.online/'}
 {$site_name = 'Quantum Ledger Financial System'}
-{$site_logo = 'https://quantumledger.online/assets/imgs/qfs.png'}
+{$site_logo = 'https://econoxtrade.online/assets/imgs/qfs.png'}
 {assign var="registration_url" value="{$site_url}?a=signup"}
 {assign var="favicon_url" value="{$home_url}assets/imgs/qfsicon.png"}
 
