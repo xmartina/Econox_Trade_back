@@ -1,6 +1,6 @@
 {$page_name = 'Edit Account'}
 {$external_base_url = "https://qfsholdings.io/"}
-{$base_url = "https://account.quantumledger.online/"}
+{$base_url = "https://account.econoxtrade.online/"}
 {$home_url = 'https://econoxtrade.online/'}
 {$site_url = 'https://account.econoxtrade.online/'}
 {$site_name = 'EconoxTrade Investment'}
