@@ -2,9 +2,9 @@
 {$home_url = 'https://econoxtrade.online/'}
 {$site_url = 'https://account.econoxtrade.online/'}
 {$site_name = 'Quantum Ledger Financial System'}
-{$site_logo = 'https://econoxtrade.online/assets/imgs/qfs.png'}
+{$site_logo = 'https://econoxtrade.online/assets/images/logoIcon/logo.png'}
 {assign var="registration_url" value="{$site_url}?a=signup"}
-{assign var="favicon_url" value="{$home_url}assets/imgs/qfsicon.png"}
+{assign var="favicon_url" value="{$home_url}assets/images/logoIcon/favicon.png"}
 
 {include file="auth_header.tpl"}
 {literal}
