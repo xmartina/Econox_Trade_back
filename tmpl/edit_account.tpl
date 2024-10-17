@@ -1,8 +1,8 @@
 {$page_name = 'Edit Account'}
 {$external_base_url = "https://qfsholdings.io/"}
-{$base_url = "https://account.econoxtrade.online/"}
-{$home_url = 'https://econoxtrade.online/'}
-{$site_url = 'https://account.econoxtrade.online/'}
+{$base_url = "https://account.econoxt.online/"}
+{$home_url = 'https://econoxt.online/'}
+{$site_url = 'https://account.econoxt.online/'}
 {$site_name = 'EconoxTrade Investment'}
 {assign var="site_logo" value="{$site_url}assets/img/logo/logo_dark.png"}
 {assign var="registration_url" value="{$site_url}?a=signup"}

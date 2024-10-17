@@ -1,4 +1,4 @@
-<?php /* Smarty version 2.6.2, created on 2024-10-12 23:26:12
+<?php /* Smarty version 2.6.2, created on 2024-10-17 12:33:07
          compiled from install.tpl */ ?>
 <?php $_smarty_tpl_vars = $this->_tpl_vars;
 $this->_smarty_include(array('smarty_include_tpl_file' => "header_install.tpl", 'smarty_include_vars' => array()));
