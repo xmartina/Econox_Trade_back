@@ -1,8 +1,5 @@
 <!-- Footer -->
-<?php
-$external_base_url = 'https://qfsholdings.io/';
-$site_name  = 'Quantum Ledger Financial System';
-?>
+
 <footer class="main-footer">
     <div class="footer-left">
         &copy; <?= date('Y') ?>
