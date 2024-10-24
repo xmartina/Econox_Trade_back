@@ -12,6 +12,6 @@
             links.forEach(function(link) {
                 link.remove();
             });
-        }, 3000); // 3000 milliseconds = 3 seconds
+        }, 5000); // 3000 milliseconds = 3 seconds
     });
 </script>
