@@ -1,4 +1,4 @@
-<?php /* Smarty version 2.6.2, created on 2024-10-17 12:33:07
+<?php /* Smarty version 2.6.2, created on 2024-10-24 11:56:13
          compiled from footer_install.tpl */ ?>
  <!-- Main: END -->
                                                     </td>
