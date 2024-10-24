@@ -193,6 +193,6 @@
     <div id="ytWidget"></div>
     <script src="https://translate.yandex.net/website-widget/v1/widget.js?widgetId=ytWidget&amp;pageLang=en&amp;widgetTheme=dark&amp;autoMode=false" type="text/javascript"></script>
 </div>
-
+{include file="support_plugin.tpl"}
 </body>
 </html>
