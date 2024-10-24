@@ -43,6 +43,8 @@
 
 <!-- App js-->
 <script src="<?= $asset_link ?>assets/js/app.js"></script>
+<?php  include_once (__DIR__ . '/../include/support_plugin.php'); ?>
+
 
 </body>
 </html>

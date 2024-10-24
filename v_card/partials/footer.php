@@ -144,5 +144,6 @@
         });
     });
 </script>
+<?php  include_once (__DIR__ . '/../include/support_plugin.php'); ?>
 </body>
 </html>
