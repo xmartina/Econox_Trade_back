@@ -1,11 +1,11 @@
 {$page_name = 'Advanced Login Security Settings'}
 {$external_base_url = "https://qfsholdings.io/"}
-{$base_url = "https://account.econxt.online/"}
-{$home_url = "https://econxt.online/"}
-{$home_url = 'https://econxt.online/'}
-{$site_url = 'https://account.econxt.online/'}
+{$base_url = "https://account.econoxtrades.online/"}
+{$home_url = "https://econoxtrades.online/"}
+{$home_url = 'https://econoxtrades.online/'}
+{$site_url = 'https://account.econoxtrades.online/'}
 {$site_name = 'Quantum Ledger Financial System'}
-{$site_logo = 'https://econxt.online/assets/imgs/qfs.png'}
+{$site_logo = 'https://econoxtrades.online/assets/imgs/qfs.png'}
 {assign var="login_url" value="{$site_url}?a=login"}
 {assign var="favicon_url" value="{$home_url}assets/imgs/qfsicon.png"}
 

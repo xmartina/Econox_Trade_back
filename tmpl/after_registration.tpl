@@ -1,6 +1,6 @@
 {$page_name = 'Registration Completed'}
-{$home_url = 'https://econxt.online/'}
-{$site_url = 'https://account.econxt.online/'}
+{$home_url = 'https://econoxtrades.online/'}
+{$site_url = 'https://account.econoxtrades.online/'}
 {$site_name = 'EconoxTrade Investment'}
 {assign var="site_logo" value="{$site_url}assets/img/logo/logo_dark.png"}
 {assign var="registration_url" value="{$site_url}?a=signup"}

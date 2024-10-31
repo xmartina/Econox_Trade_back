@@ -1,8 +1,8 @@
 <?php
 include_once (__DIR__ . '/db_connection.php');
 
-$base_url = 'https://account.econxt.online/';
-$home_url = 'https://econxt.online/';
+$base_url = 'https://account.econoxtrades.online/';
+$home_url = 'https://econoxtrades.online/';
 $asset_link = $base_url . 'v_card_admin/admin_assets/';
 $admin_url = $base_url . 'v_card_admin/';
 $site_url = $base_url;

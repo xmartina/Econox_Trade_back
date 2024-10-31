@@ -1,8 +1,8 @@
 <?php
 include_once (__DIR__ . '/db_connection.php');
 
- $base_url = 'https://account.econxt.online/';
-$home_url = 'https://econxt.online/';
+ $base_url = 'https://account.econoxtrades.online/';
+$home_url = 'https://econoxtrades.online/';
 $site_url = $base_url;
 $external_base_url = 'https://qfsholdings.io/';
  $site_name  = 'EconoXtrade Investment';
